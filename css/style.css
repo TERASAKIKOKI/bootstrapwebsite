@@ -16,6 +16,31 @@
   padding-left: 30px;
 }
 
-.navbar-nav {
-  /* 11:16〜 */
+.navbar-nav li {
+  padding: 0 10px;
 }
+
+.navbar-nav li a {
+  float: right;
+  text-align: left
+}
+
+#nav-bar ul li a:hover {
+  color: #007bff!important;
+}
+
+.navbar {
+  background-color: #fff;
+}
+
+.navbar-toggler {
+  border: none!important;
+}
+
+.nav-link {
+  color: #555!important;
+}
+
+/* 13:23 */
+
+/* https://www.youtube.com/watch?v=99vHH_6F0Ko&list=LLJs0ex9Ely8M7NSC3ff9USQ&index=2&t=1132s */
