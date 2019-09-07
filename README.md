@@ -15,3 +15,15 @@ transform: translateY(-50%);
 ```
 bottom: initial
 ```
+
+```
+background-attachment: fixed;
+```
+
+```
+background-size: cover;
+```
+
+```
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./img.services.jpg);
+```
