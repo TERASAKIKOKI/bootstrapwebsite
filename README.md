@@ -36,3 +36,11 @@ filter: grayscale(1);
 ```css
 cursor: pointer;
 ```
+
+```css
+text-transform: uppercase;
+```
+
+```css
+:last-child
+'''
