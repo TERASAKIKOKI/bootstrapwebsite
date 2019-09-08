@@ -6,6 +6,16 @@
 ### bootstrap
 CSSのフレームワークで簡単にレスポンシブ対応ができて、いい感じのデザインが準備されている
 
+### 使うと便利なもの
+sommth scroll  
+アンカーリンクでページ内の任意の箇所に飛ぶときに、スクーロールをなめらかにしてくれる  
+URL:
+https://github.com/cferdinandi/smooth-scroll  
+
+### memo  
+スライダーの画像の位置がおかしい  
+Testimonialsのアイコンの位置がおかしい
+
 ## 使ったCSS
 
 ```css
