@@ -8,22 +8,31 @@ CSSのフレームワークで簡単にレスポンシブ対応ができて、�
 
 ## 使ったCSS
 
-```
+```css
 transform: translateY(-50%);
 ```
 
-```
+```css
 bottom: initial
 ```
 
-```
+```css
 background-attachment: fixed;
 ```
 
-```
+```css
 background-size: cover;
 ```
 
-```
+```css
 background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./img.services.jpg);
+```
+
+```css
+filter: grayscale(1);
+```
+
+
+```css
+cursor: pointer;
 ```
